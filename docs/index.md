@@ -53,6 +53,7 @@ hero:
 
 features:
   - title: 文生图
-  - details: 命令[/作图 Corn Hub]，长按`发送`按钮生成并发送图片
-  - link: https://github.com/CkBcDD/WAuxiliary_Plugin/tree/patch-4/plugins/CkBc/TXT-to-IMG
+    details: 命令[/作图 Corn Hub]，长按`发送`按钮生成并发送图片
+    link: https://github.com/CkBcDD/WAuxiliary_Plugin/tree/patch-4/plugins/CkBc/TXT-to-IMG
+
 ---
