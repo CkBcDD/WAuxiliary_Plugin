@@ -42,11 +42,6 @@ features:
     details: 需修改API域名,路径,密钥,模型,好友wxid等参数, 监听收到消息时自动聊天
     link: https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/hd/OpenAiChat
 
----
-
----
-layout: home
-
 hero:
   name: "CkBc Plugins"
   text: "CkBc版 插件"
