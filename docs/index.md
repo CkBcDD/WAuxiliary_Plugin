@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "WAuxiliary Plugin"
+  name: "WAuxiliary Plugins"
   text: "WAuxiliary 插件"
 
 features:
@@ -42,18 +42,7 @@ features:
     details: 需修改API域名,路径,密钥,模型,好友wxid等参数, 监听收到消息时自动聊天
     link: https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/hd/OpenAiChat
 
----
-
----
-layout: other
-
-hero:
-  name: "CkBc Plugins"
-  text: "CkBc版 插件"
-
-features:
   - title: 文生图
-    details: 命令[/作图 Corn Hub]，长按`发送`按钮生成并发送图片
-    link: [GitHub](https://github.com/CkBcDD/WAuxiliary_Plugin/tree/patch-4/plugins/CkBc/TXT-to-IMG)
-    
+    details: 命令`/作图 Corn Hub`，长按`发送`按钮生成并发送图片
+    link: https://github.com/CkBcDD/WAuxiliary_Plugin/tree/patch-4/plugins/CkBc/TXT-to-IMG
 ---
